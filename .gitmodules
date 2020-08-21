@@ -1,0 +1,3 @@
+[submodule "docker-credential-pass"]
+	path = docker-credential-pass
+	url = https://aur.archlinux.org/docker-credential-pass.git
